@@ -7,8 +7,7 @@ DQS (Dragon Quantum Sim) is a high-performance, memory-optimized engine for Exac
 Exact Diagonalization • Z₂ symmetry • Custom 3-Vector Lanczos • Mixed-precision • Any lattice dimension
 
 ---
-
-### Breakthrough Result (used as the main example in the upcoming arXiv preprint)
+The app allows to use 64 GB RAM classic home PC to simulate and calculate up to 32 qibuts with exact method in reasonable time.
 
 **32 qubits in 5D hypercubic lattice** (Hilbert space = 4,294,967,296 states)  
 → **Ground state computed with only 40.16 GB peak RAM** on a standard desktop PC  
