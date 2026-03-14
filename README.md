@@ -52,7 +52,7 @@ Bright yellow loops exactly follow the 5-dimensional hypercube bonds – clear v
 3. **Mixed-precision pipeline** – float32 storage vectors + float64 local accumulators (eliminates cancellation errors)
 4. **Observables pipeline** – full-space expansion only after solver finishes (magnetization, ZZ, von Neumann entropy, pairwise MI, dimensional isotropy check)
 
-Full benchmark logs and JSON results are included in the repository (`simulation_log 5d.txt`, `full log.txt`, `results_Z2_5D_2x2x2x2x2_float32.json`).
+Full benchmark logs and JSON results are included in the repository (Docs folder by now) (`simulation_log 5d.txt`, `results_Z2_5D_2x2x2x2x2_float32.json`).
 
 ---
 
