@@ -45,7 +45,7 @@ Bright yellow loops exactly follow the 5-dimensional hypercube bonds – clear v
 
 ---
 
-### Core Innovations (detailed in the preprint)
+### Core Innovations
 
 1. **Map-free Z₂ parity projection** – lossless halving of the Hilbert space without any index mapping
 2. **Custom 3-Vector Lanczos engine** – only 3 vectors in Phase 1 (eigenvalues) and 4 in Phase 2 (eigenvector) → 32–40 GB peak for 32 qubits
